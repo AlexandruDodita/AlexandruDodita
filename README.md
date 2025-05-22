@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm Alexandru Dodita
-
+I’m a 3rd‑year Computer Engineering bachelor student at "Gheorghe Asachi" Technical University of Iași (TUIASI). I build performance‑focused C++ apps, tackle algorithmic challenges, and explore web dev and ML whenever I get the chance.
 <div align="center">
 
 ## 📊 GitHub Stats
