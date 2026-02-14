@@ -1,14 +1,15 @@
 # Hi there! 👋 I'm Alexandru Dodita
-I’m a 4th‑year Computer Engineering bachelor student at "Gheorghe Asachi" Technical University of Iași (TUIASI). I build performance‑focused C++ apps, tackle algorithmic challenges, and explore web dev and ML whenever I get the chance.
+I'm a 4th‑year Computer Engineering bachelor student at "Gheorghe Asachi" Technical University of Iași (TUIASI). I build performance‑focused C++ apps, tackle algorithmic challenges, and explore web dev and ML whenever I get the chance.
 <div align="center">
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=AlexandruDodita&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlexandruDodita&theme=github_dark" alt="GitHub Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexandruDodita&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=58a6ff&sideNums=58a6ff&dates=8b949e" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=AlexandruDodita&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=58a6ff&sideNums=58a6ff&dates=8b949e" alt="GitHub Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandruDodita&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlexandruDodita&theme=github_dark" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlexandruDodita&theme=github_dark" alt="Most Commit Language" />
 
 ## 📈 Contribution Graph
 
@@ -16,7 +17,7 @@ I’m a 4th‑year Computer Engineering bachelor student at "Gheorghe Asachi" Te
 
 ## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=AlexandruDodita&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy-winning.vercel.app/?username=AlexandruDodita&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
 
 </div>
 
