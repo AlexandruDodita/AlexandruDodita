@@ -15,9 +15,10 @@ I'm a 4th‑year Computer Engineering bachelor student at "Gheorghe Asachi" Tech
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlexandruDodita&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9" alt="Contribution Graph" />
 
-## 🏆 GitHub Trophies
+## 🏆 Profile Summary
 
-<img src="https://github-profile-trophy-winning.vercel.app/?username=AlexandruDodita&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexandruDodita&theme=github_dark" alt="Profile Details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AlexandruDodita&theme=github_dark&utcOffset=2" alt="Productive Time" />
 
 </div>
 
